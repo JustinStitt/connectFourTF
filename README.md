@@ -1,2 +1,2 @@
 # connectFourTF
-Connect Four but like intelligent.
+Connect Four but with TensorFlow
